@@ -22,5 +22,5 @@
     />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cebbinghaus&hide=javascript%2Chtml%2Ccss%2Cobjective-c&exclude_repo=srb2kart%2CaieBootstrap&size_weight=0&count_weight=1&langs_count=10&layout=compact&hide_border=true&bg_color=00000000" />
   </picture>
-   <img src="https://streak-stats.demolab.com?user=CEbbinghaus&theme=transparent&hide_border=true" />
+   <img src="https://streak-stats.demolab.com?user=CEbbinghaus&theme=dark&hide_border=true&background=00000000" />
 </p>
